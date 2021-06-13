@@ -1,0 +1,195 @@
+.main_headline{
+	background-color: coral;
+	border: 2px solid red;
+	padding: 10px;
+	border-radius: 25px;
+	float: left;
+}
+
+.center{
+	text-align: center;
+}
+
+.left-div {
+	width: 10%; 
+	float: left;
+} 
+
+.right-div {
+	width: 90%; 
+	float: right;
+} 
+
+.float-right{
+	float: right;
+}
+
+.float-left{
+	float: left;
+}
+
+.error {
+	color: #ff3737;
+}
+
+.btn-outline {
+	color: #4fbfa8;
+  	background-color: #10111f;
+  	border-color: #4fbfa8;
+  	font-weight: bold;
+  	letter-spacing: 0.05em;
+  	border-radius: 5px;
+}
+
+.btn-outline:hover,
+.btn-outline:active,
+.btn-outline:focus,
+.btn-outline.active {
+  	background: #ff0000;
+  	color: #000;
+  	border-color: #4fbfa8; 
+}
+
+.success-message {
+	background-color: #53ff53;
+	color: #005315;
+	font-weight: bold;
+	width: 30px;
+    border: 2px solid #005315;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+.color-mat-default{
+	color: #4fbfa8;
+}
+
+.color-green p{
+	color: #00ffff;
+}
+
+.color-lime {
+	color: lime;
+}
+
+.color-red-variant1 {
+	color: #ff0000;
+}
+
+.color-white {
+	color: white;
+}
+
+.color-blue-variant1 {
+	color: #8080ff;
+}
+
+.text-color-white {
+	color: white;
+}
+
+.text-color-mat-default{
+	color: #4fbfa8;
+}
+
+.left-align{
+	text-align: left;
+}
+
+.margin-top-0{
+	margin-top: 0;
+}
+
+.margin-top-15{
+	margin-top: 15px;
+}
+
+.margin-top--15{
+	margin-top: -15px;
+}
+
+.margin-left-60{
+	margin-left: 60px;
+}
+
+.margin-left-600{
+	margin-left: 600px;
+}
+
+.font-size-20{
+	font-size: 20px;	
+}
+
+.font-300{
+	font-weight: 300;
+}
+
+.btn-block {
+    width: 101%;
+    height: 50px;
+}
+
+.rgba-bg{
+	background: rgba(0,0,0,0.7);
+}
+
+.rgba-bg-variant1{
+	background: rgba(0,0,0,0.3);
+}
+
+.rgba-bg-variant2{
+	background: rgba(0,0,0,0.8);
+}
+
+.rgba-bg-variant3{
+	background: rgba(0,0,0,0.6);
+}
+
+.bg-custom{
+	background: rgb(255, 183, 155);
+}
+
+.table {
+	width: 100%;
+	margin-bottom: 1rem;
+	color: #212529;
+}
+
+.table-bordered {
+    border: 2px solid #007bff;
+}
+
+.table-bordered td,
+.table-bordered th {
+    border: 1px solid #007bff;
+    text-align: center;
+}
+
+.table-bordered thead td,
+.table-bordered thead th {
+    border-width: 2px;
+}
+
+thead {
+    font-weight: bold;
+}
+
+.table-bordered-low-padding td,
+.table-bordered-low-padding th {
+    border: 1px solid #007bff;
+    text-align: center;
+    padding: 1px;
+}
+
+.display-block {
+	display : inline-block;
+} 
+
+.width-31-percent{
+	width: 31%;
+}
+
+.user_id p{
+	font-size: 12px;
+}
